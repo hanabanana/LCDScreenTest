@@ -1,0 +1,6 @@
+This is a test project for the SparcFun 20*4 LCD shield for Arduino.
+
+It controls the messages being displayed on the shield after a hard-wired button is pressed by the user.
+
+It makes sure that the LCD shield works fine. Yay!
+
